@@ -1,2 +1,2 @@
 # Machine-Learning
-## Machine Learning by Andrew NG, Coursera
+## Machine Learning by Andrew NG, Stanford University, Coursera
